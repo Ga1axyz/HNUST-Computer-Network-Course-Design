@@ -1,5 +1,5 @@
 # HNUST- 计算机网络课程设计
-一些用 C++和C编写的 Socket 通信的极简 Demo
+一些用 C++ 和 C 编写的 Socket 通信的极简 Demo
 
 具体题目的详情见各文件夹中的 README 文档
 
