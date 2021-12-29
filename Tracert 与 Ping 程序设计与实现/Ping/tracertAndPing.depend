@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640675834 source:c:\users\16875\desktop\somecode\¼ÆËã»úÍøÂç\tracertandping\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ws2tcpip.h>
+	<winsock2.h>
+	<iostream>
+	<windows.h>
+
