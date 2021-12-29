@@ -11,3 +11,20 @@
 + 总之就是一个很简陋的 Demo，运行有问题的话重新编译运行多试试几次就好了🙁
 
 ## 示例
+
+<h4>本 Tracert 程序运行结果</h4>
+
+[![T2i6nf.png](https://s4.ax1x.com/2021/12/29/T2i6nf.png)](https://imgtu.com/i/T2i6nf)
+[![T2isjP.png](https://s4.ax1x.com/2021/12/29/T2isjP.png)](https://imgtu.com/i/T2isjP)
+[![T2igHS.png](https://s4.ax1x.com/2021/12/29/T2igHS.png)](https://imgtu.com/i/T2igHS)
+[![T2iWNQ.png](https://s4.ax1x.com/2021/12/29/T2iWNQ.png)](https://imgtu.com/i/T2iWNQ)
+[![T2iRAg.png](https://s4.ax1x.com/2021/12/29/T2iRAg.png)](https://imgtu.com/i/T2iRAg)
+
+<h4>CMD Tracert 命令运行结果参考</h4>
+
+[![T2ifhj.png](https://s4.ax1x.com/2021/12/29/T2ifhj.png)](https://imgtu.com/i/T2ifhj)
+
+<h4> Ping 命令运行结果</h4>
+
+[![T2i49s.png](https://s4.ax1x.com/2021/12/29/T2i49s.png)](https://imgtu.com/i/T2i49s)
+[![T2iIcq.png](https://s4.ax1x.com/2021/12/29/T2iIcq.png)](https://imgtu.com/i/T2iIcq)
