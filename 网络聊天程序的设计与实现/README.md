@@ -25,4 +25,10 @@
 + 客户端首先发言
 
 ## 示例
+<h4>socketServer</h4>
 
+[![T2ix3R.png](https://s4.ax1x.com/2021/12/29/T2ix3R.png)](https://imgtu.com/i/T2ix3R)
+
+<h4>socketClient</h4>
+
+[![T2irct.png](https://s4.ax1x.com/2021/12/29/T2irct.png)](https://imgtu.com/i/T2irct)
