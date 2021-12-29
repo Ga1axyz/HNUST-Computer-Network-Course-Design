@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1640782283 source:c:\users\16875\desktop\somecode\¼ÆËã»úÍøÂç\webproxy\main.cpp
+	<cstdio>
+	<string>
+	<fstream>
+	<WinSock2.h>
+	<iostream>
+	<io.h>
+	<vector>
+
