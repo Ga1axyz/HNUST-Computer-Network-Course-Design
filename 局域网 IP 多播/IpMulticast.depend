@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1640840237 source:c:\users\16875\desktop\somecode\¼ÆËã»úÍøÂç\ipmulticast\main.cpp
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<process.h>
+
