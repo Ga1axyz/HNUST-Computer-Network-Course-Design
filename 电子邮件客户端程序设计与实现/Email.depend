@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641295064 source:c:\users\16875\desktop\somecode\¼ÆËã»úÍøÂç\email\main.cpp
+	<iostream>
+	<string>
+	<WinSock2.h>
+	<stdio.h>
+	"unistd.h"
+
