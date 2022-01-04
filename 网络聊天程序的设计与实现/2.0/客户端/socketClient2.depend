@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1641267426 source:c:\users\16875\desktop\somecode\计算机网络\socketclient2\main.cpp
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<process.h>
+
+1641268325 source:c:\users\16875\desktop\somecode\计算机网络\socketclient 2.0\socketclient2\main.cpp
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<process.h>
+
